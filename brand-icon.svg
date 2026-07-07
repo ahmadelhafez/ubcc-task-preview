@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="UBCC Legenda">
+  <!-- Legenda teal field with the open-book motif from the brand mark. -->
+  <rect width="48" height="48" rx="11" fill="#168ea0"/>
+  <g fill="#ffffff">
+    <path d="M23.2 17C18.5 14.5 13 14.5 9.5 16L9.5 31C13 29.5 18.5 29.5 23.2 31.8Z"/>
+    <path d="M24.8 17C29.5 14.5 35 14.5 38.5 16L38.5 31C35 29.5 29.5 29.5 24.8 31.8Z"/>
+  </g>
+</svg>
